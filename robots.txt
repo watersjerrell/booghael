@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zooforeu.spardo.com/sitemap.xml
